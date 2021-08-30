@@ -1,0 +1,1 @@
+﻿This is the guide where you will learn the basics of python, keep in mind that this course is in the stage of development
