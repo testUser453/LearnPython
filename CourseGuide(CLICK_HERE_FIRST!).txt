@@ -1,7 +1,7 @@
 ﻿This is the guide where you will learn the basics of python, keep in mind that this course is in the stage of development and new parts of this course will be added going forward
  
  Where to start and end:
-  1.)
+  1.) variables.py
   2.)
   3.)
       
