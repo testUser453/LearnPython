@@ -23,7 +23,7 @@ print(x)
 y = 'Hello World'
 print(y)
 
-#We will now learn about the float variable
+#We will now learn about the float variable!
 #In float variables you can have decimal numbers, something that the integer variable doesn't posses
 #I will show you how to use the float variable using variable 'z' and will also print it right after assigning the float value of '3432.242'
 z = 3432.242
