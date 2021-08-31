@@ -2,6 +2,6 @@
  
  Where to start and end:
   1.) variables(1).py, talks about variables
-  2.)
+  2.) print(2).py, talks about the print statement
   3.)
       
