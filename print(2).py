@@ -2,7 +2,7 @@
 
 #Lets start of by simply printing Hello World
 #To print a statement like Hello World, we use the print statement (keep in mind that you can use single or double quotes) --> print("This is where what you want to say goes")
-#Using the print statement, lets print 'Hello World'
+#Using the print statement, lets print 'Hello World'!
 print("Hello World")
 
 #If you printed this statement, in your terminal console of your text editor, IDE or computer you will see the words 'Hello World'
